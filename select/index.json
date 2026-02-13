@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "La Chica de Humo",
+  "base_artist": "Emmanuel",
+  "createdAt": "2026-02-13T03:52:01.170641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/01_La_Chica_de_Humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Chica De Humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/02_La_Chica_De_Humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/03_La_Chica_de_Humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/04_La_Chica_de_Humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "la chica de humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/05_la_chica_de_humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Chica De Humo",
+      "artist": "Emmanuel",
+      "has_synced": false,
+      "path": "select/06_La_Chica_De_Humo_Emmanuel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "la chica de humo",
+      "artist": "emmanuel",
+      "has_synced": true,
+      "path": "select/07_la_chica_de_humo_emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/08_La_Chica_de_Humo_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Oficial Emmanuel",
+      "has_synced": true,
+      "path": "select/09_La_Chica_de_Humo_Oficial_Emmanuel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Chica de Humo",
+      "artist": "Emmanuel, 361M plays",
+      "has_synced": true,
+      "path": "select/10_La_Chica_de_Humo_Emmanuel,_361M_plays.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Emmanuel - La Chica De Humo",
+      "artist": "The Sacados",
+      "has_synced": true,
+      "path": "select/11_Emmanuel_-_La_Chica_De_Humo_The_Sacados.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Chica De Humo (MTV Unplugged)",
+      "artist": "Emmanuel",
+      "has_synced": true,
+      "path": "select/12_La_Chica_De_Humo_(MTV_Unplugged)_Emmanuel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Chica De Humo",
+      "artist": "Emmanuel",
+      "has_synced": false,
+      "path": "select/pl_01_La_Chica_De_Humo_Emmanuel.txt"
+    }
+  ]
+}
